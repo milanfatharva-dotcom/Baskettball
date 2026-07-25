@@ -1,0 +1,23 @@
+body{
+margin:0;
+background:#222;
+color:white;
+font-family:Arial;
+text-align:center;
+}
+
+h1{
+margin:15px;
+}
+
+#score{
+font-size:25px;
+margin-bottom:10px;
+}
+
+canvas{
+background:#6cc04a;
+border:5px solid white;
+max-width:100%;
+height:auto;
+}
